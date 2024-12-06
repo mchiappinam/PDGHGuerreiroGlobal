@@ -1,0 +1,8 @@
+name: PDGHGuerreiro
+main: me.mchiappinam.pdghguerreiro.Main
+version: 1.0
+website: http://pdgh.com.br/
+commands:
+   guerreiro:
+      description: Info.
+      usage: /<command> ?

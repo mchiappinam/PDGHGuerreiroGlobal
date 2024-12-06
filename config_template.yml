@@ -1,0 +1,18 @@
+AutoStart:
+  Dia: domingo
+  Hora: 1700
+Timers:
+  Preparar:
+    Avisos: 60
+    TempoEntre: 10
+  Iniciando:
+    Avisos: 6
+    TempoEntre: 5
+  Finalizando: 30
+Arena:
+  Entrada: 'world;0;0;0;0;0'
+  Saida: 'world;0;0;0;0;0'
+  Camarote: 'world;0;0;0;0;0'
+  Menor: 'world;0;0;0;0;0'
+Vencedor: null
+Bans: {}
